@@ -1,0 +1,3 @@
+Python is simple and versatile.
+we can learn variables, types, loops, functions.
+we need to Practice daily
